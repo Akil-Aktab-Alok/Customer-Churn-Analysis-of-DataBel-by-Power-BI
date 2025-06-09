@@ -16,10 +16,19 @@ This dashboard presents an in-depth analysis of **customer churn** for **Databel
 6. **Geographical Insights**: Displays churn rates across different states and provinces to pinpoint regions that may require special attention.
 
 ---
+### **Page 1: Overview**
+The **Overview** page presents the key metrics and an overall view of customer churn for **Databel Company**:
+- **Churn Rate**: Displays the overall churn rate of 26.86%.
+- **Churn Reasons**: A chart categorizing the primary reasons for churn, such as "Competitor had better offer," "Attitude of support staff," and "Price too high."
+- **Customers by Contract Type**: Visualizes the distribution of customers based on their contract types (e.g., Month-to-Month, One Year, Two Year).
+
+![Overview Page](Screenshot%202025-06-09%20235426.png)
+
+---
 
 ## Dashboard Page Breakdown:
 
-### **Page 1: Age Groups**
+### **Page 2: Age Groups**
 This page visualizes the churn rate across different **age groups**:
 - **Churn Rate by Age**: A breakdown of churn rate for various age bins.
 - **Churn Rate by Demographics**: A comparison of churn rates for different customer groups such as seniors, those under 30, and other age categories.
@@ -28,7 +37,7 @@ This page visualizes the churn rate across different **age groups**:
 
 ---
 
-### **Page 2: Payments & Contracts**
+### **Page 3: Payments & Contracts**
 This page explores the relationship between **payment methods**, **contract types**, and churn:
 - **Churn Rate by Payment Method**: Compares churn rate across payment methods such as Credit Card, Direct Debit, and Paper Check.
 - **Churn Rate by Contract Type**: Visualizes churn rates for customers on Month-to-Month, One Year, and Two Year contracts.
@@ -37,7 +46,7 @@ This page explores the relationship between **payment methods**, **contract type
 
 ---
 
-### **Page 3: Extra Charges**
+### **Page 4: Extra Charges**
 This page investigates the impact of **extra charges** on churn:
 - **Churn Rate by Data Usage and Unlimited Data Plan**: Displays churn rates based on data usage categories (e.g., less than 5GB, 5-10GB, over 10GB) and whether customers have an unlimited data plan.
 - **Extra Charges**: Shows average extra charges, including international and data overage charges, and their relationship with churn.
@@ -46,7 +55,7 @@ This page investigates the impact of **extra charges** on churn:
 
 ---
 
-### **Page 4: Insights**
+### **Page 5: Insights**
 The **Insights** page provides additional analysis, including customer service interactions and geographical insights:
 - **Customer Service Calls**: Correlates the average number of customer service calls with churn rates.
 - **Churn Rate by State/Province**: A geographical breakdown showing churn rates across different states or provinces.
