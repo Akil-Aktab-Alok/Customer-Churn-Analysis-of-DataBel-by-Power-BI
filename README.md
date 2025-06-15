@@ -63,6 +63,18 @@ The **Insights** page provides additional analysis, including customer service i
 ![Insights Page](Screenshot%202025-06-09%20235601.png)
 
 ---
+### **Business Recommendations**
+• Promote annual contracts with incentives to convert month-to-month users.
+
+• Improve customer support quality and reduce escalation loops.
+
+• Evaluate pricing models and offer value bundles for heavy data users.
+
+• Target high-risk age groups with personalized engagement strategies.
+
+• Move users to automated payment methods to improve retention.
+
+---
 
 ## Skills Demonstrated:
 1. **Data Cleaning & Preparation**: Transforming raw data into a structured format suitable for analysis by cleaning and preparing the data in Power BI.
